@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#mga files na ende kailnagan
+.idea
+/database/
+file_bagu.txt
